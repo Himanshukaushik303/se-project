@@ -98,6 +98,13 @@ Our application will digitize the delivery of daily essential products. The scop
 5. Run the django server :
 
     `python manage.py runserver`
+    
+## Example Images:
+<img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/Signup.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/Signin.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/Home.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/Shops.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/products.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/buy.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/cart.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/checkout.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/order.png" width="100%" height="50%"> <img src="https://github.com/Himanshukaushik303/se-project/blob/main/Documents/chatbot.png" width="100%" height="50%">
+
+
+
+
 
 
 ## Contributors:
